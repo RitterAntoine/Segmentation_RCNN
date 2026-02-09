@@ -99,4 +99,4 @@ The output image will be a composite of 5 visualizations displayed side by side:
 4. **Contours**: Object contours extracted from the mask
 5. **Blurred background**: Original with background selectively blurred
 
-![Example Output](output/cats/cat.1.png)
+![Example Output](output/dogs/dog.7.png)
